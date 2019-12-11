@@ -1,0 +1,46 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "jhipstershopin",
+    "packageName": "com.mhaque.jhipster",
+    "packageFolder": "com/mhaque/jhipster",
+    "serverPort": 8080,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": "elasticsearch",
+    "enableSwaggerCodegen": "true",
+    "messageBroker": "kafka",
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "cucumber"
+    ],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "6.5.1",
+    "jwtSecretKey": "NTExYTY4MWJjN2FiMmJlMzcxYTBlZDNiMjQzN2ZkMmZmMjAwZjhiMDFmNGVmMTdjZmFhMjFlNWIzZjQxZjg0YjA5YzFjZWVjMjE3NmI0MmNjNDIxZDc0NjI5ZmM4ZjNiMmNkZmQyNzc2MGU2MjAwZmYwZjg1NWM5Nzc1YWEwOTc=",
+    "embeddableLaunchScript": false,
+    "clientTheme": "none",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "blueprints": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "masudcse05",
+  "repository-name": "jhipster-shopin"
+}
